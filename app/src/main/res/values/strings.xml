@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Platformer</string>
+    <!--Меню-->
+    <string name="txt_MainMenu_name">Платформер</string>
+    <string name="txt_MainMenu_begin">Начать</string>
+    <string name="txt_MainMenu_result">Лучший результат: </string>
+    <string name="txt_MainMenu_exit">Выход</string>
+
+    <!--Игра-->
+    <string name="txt_gameBegin">Начать?</string>
+    <string name="txt_gameBeginConfirm">Для прожоджения нажмите на экран</string>
+    <string name="txt_gameScore">Счёт:</string>
+    <string name="txt_gameBack">Назад</string>
+</resources>
